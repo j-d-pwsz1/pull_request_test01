@@ -1,0 +1,2 @@
+Pierwsza linia w galezi 'master'.
+Druga linia w galezi 'master'.
